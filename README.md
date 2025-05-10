@@ -88,6 +88,8 @@ Evaluation Metric Used:
    - Forecast future sales
    - Compare actual vs predicted values
    - Plotting model performance
+   ![image](https://github.com/user-attachments/assets/f3b5167f-c655-4a05-a6cc-c0385132e5a9)
+
 
 ---
 ## 📄 License
